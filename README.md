@@ -1,6 +1,6 @@
 # Sales-Profitability-Analysis
 
-**Project Overview**
+## Project Overview
 
 This Power BI project analyzes sales and profitability performance to identify key business trends and opportunities for improving overall profitability.
 
@@ -8,72 +8,78 @@ The project was originally developed as part of a Maven Analytics Power BI cours
 
 The dataset covers 2019 through June 2022.
 
-**Project Enhancements**
+## Project Enhancements
 
 The following components were independently added to extend the original course project:
 
-**Profitability Analysis Dashboard**
+### Profitability Analysis Dashboard
 
 A new Profitability Analysis report page was created to investigate product and customer profitability and identify potential business opportunities.
 Additional analysis and functionality includes:
 
-•	Top 10 Products by Profit
+-	Top 10 Products by Profit
 
-•	Bottom 10 Products by Profit
+-	Bottom 10 Products by Profit
 
-•	Sales vs. Profit Margin by Product Subcategory
+-	Sales vs. Profit Margin by Product Subcategory
 
-•	Average Profit per Customer by Income Level
+-	Average Profit per Customer by Income Level
 
-•	Year filtering and interactive report functionality
+-	Year filtering and interactive report functionality
 
-**Additional DAX Measures**
+### Additional DAX Measures
 
 The following measures were created to support the expanded profitability analysis:
 
-•	Profit Margin %
+-	Profit Margin %
 
-•	YoY Profit Growth %
+-	YoY Profit Growth %
 
-•	Average Profit per Order
+-	Average Profit per Order
 
-•	Average Profit per Customer
+-	Average Profit per Customer
 
 
-**Executive Presentation**
+### Executive Presentation
 
 A PowerPoint presentation was created to summarize the analysis for a business audience, including:
 
-•	Overall business performance
+-	Overall business performance
 
-•	Product profitability findings
+-	Product profitability findings
 
-•	Customer profitability insights
+-	Customer profitability insights
 
-•	Potential growth opportunities
+-	Potential growth opportunities
 
-•	Business recommendations and next steps
+-	Business recommendations and next steps
 
-**Tools & Technologies**
+## Project Files
 
-•	Microsoft Power BI
+- **Sales & Profitability Analysis.pbix** — Interactive Power BI report containing the original course analysis and independently developed profitability analysis.
+- **Sales & Profitability Analysis.pptx** — Executive presentation summarizing key findings, business opportunities, and recommendations.
+  
 
-•	Power Query
+## Tools & Technologies
 
-•	DAX
+-	Microsoft Power BI
 
-•	Microsoft PowerPoint
+-	Power Query
 
-**Credits & Attribution**
+-	DAX
+
+-	Microsoft PowerPoint
+
+## Credits & Attribution
 
 The original Power BI project and dataset were completed as part of a Maven Analytics course hosted on Udemy. The report was subsequently expanded with the additional analysis, measures, visualizations, and business recommendations described above.
 PowerPoint template and graphical assets used in the executive presentation were sourced from:
 
-•	Slidesgo
+-	Slidesgo
 
-•	Flaticon
+-	Flaticon
 
-•	Freepik
+-	Freepik
 
 
 _All third-party materials remain the property of their respective creators and are used in accordance with their applicable terms and licenses._
